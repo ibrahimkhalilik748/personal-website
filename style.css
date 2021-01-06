@@ -46,7 +46,7 @@ p{
     font-size: 15px;
 }
 img{
-    width: 100%;
+    width: 110%;
 }
 .link-btn{
     text-decoration: none;
@@ -130,7 +130,7 @@ h4{
 h5{
     text-align: center;
     margin-top: 100px;
-    color: gray;
+    color: #808080bd;
     font-size: 20px;
 }
 .color{
